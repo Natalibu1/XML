@@ -1,12 +1,8 @@
 <Skills>
-  <basicTheory>bug reports</basicTheory>
-  <basicTheory>testing methods</basicTheory>
-  <basicTheory>SDLC</basicTheory>
-  <basicTheory>STLC</basicTheory>
-  <testingAPI>Postman</testingAPI>
-  <testingAPI>JS</testingAPI> 
-  <testingAPI>autotests</testingAPI>
-  <terminalLinux>copying files</terminalLinux>
-  <terminalLinux>creating files</terminalLinux>
-  <terminalLinux>moving files</terminalLinux>
+  <basicTheory>bug reports, testing methods, SDLC, STLC</basicTheory>
+  <testingAPI>Postman, JS, autotests</testingAPI>
+  <terminalLinux>copying files, creating files, moving files</terminalLinux>
+  <sniffingHttpsTraffic>Charles, Fiddler</sniffing https traffic>
+  <DeVToolsWebBrowsers>Google Chrome, FireFox</DeVToolsWebBrowsers>
+  <mobileTesting>Android Studio, ADB</mobileTesting> 
 </Skills>  
