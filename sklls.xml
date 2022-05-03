@@ -3,10 +3,6 @@
   <testingAPI>Postman, JS, autotests</testingAPI>
   <terminalLinux>copying files, creating files, moving files</terminalLinux>
   <sniffingHttpTraffic>Charles, Fiddler</sniffingHttpTraffic>
-<<<<<<< HEAD
   <DevToolsWebBrowsers>Google Chrome, FireFox</DevToolsWebBrowsers>
-=======
-  <DeVToolsWebBrowsers>Google Chrome, FireFox</DeVToolsWebBrowsers>
->>>>>>> dfdac4a23d8e724b20b34ec6a83be4705c1d9a12
   <mobileTesting>Android Studio, ADB</mobileTesting> 
 </Skills>  
