@@ -2,7 +2,7 @@
   <basicTheory>bug reports, testing methods, SDLC, STLC</basicTheory>
   <testingAPI>Postman, JS, autotests</testingAPI>
   <terminalLinux>copying files, creating files, moving files</terminalLinux>
-  <sniffingHttpsTraffic>Charles, Fiddler</sniffing https traffic>
-  <DeVToolsWebBrowsers>Google Chrome, FireFox</DeVToolsWebBrowsers>
+  <sniffingHttpTraffic>Charles, Fiddler</sniffingHttpTraffic>
+  <DevToolsWebBrowsers>Google Chrome, FireFox</DevToolsWebBrowsers>
   <mobileTesting>Android Studio, ADB</mobileTesting> 
 </Skills>  
